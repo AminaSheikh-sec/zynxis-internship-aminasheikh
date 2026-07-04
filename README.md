@@ -19,7 +19,7 @@ Cybersecurity Internship. Each week's work is organized in its own folder.
 |------|------|--------|
 | Week 1 | Kali Linux & VirtualBox setup, Linux commands practice, CIA Triad note | ✅ Completed |
 | Week 2 | TryHackMe beginner rooms (Intro to Cyber Security, Linux Fundamentals Part 1, How the Web Works) screenshots + learnings | ✅ Completed |
-| Week 3 | — | ⏳ Pending |
+| Week 3 | DVWA setup (XAMPP) + SQL Injection, XSS (Reflected), Brute Force attacks — screenshots + explanations | ✅ Completed |
 | Week 4 | — | ⏳ Pending |
 | Week 5 | — | ⏳ Pending |
 | Week 6 | — | ⏳ Pending |
