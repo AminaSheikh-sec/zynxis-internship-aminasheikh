@@ -22,7 +22,7 @@ Cybersecurity Internship. Each week's work is organized in its own folder.
 | Week 3 | DVWA setup (XAMPP) + SQL Injection, XSS (Reflected), Brute Force attacks — screenshots + explanations | ✅ Completed |
 | Week 4 | MD5 hash cracking (CrackStation) + Zynxis Password Policy document | ✅ Completed |
 | Week 5 | Nmap network scanning (basic, -sV, -O scans) on Kali localhost + open ports explanation | ✅ Completed |
-| Week 6 | Wireshark packet capture — DNS, HTTP, and TCP 3-way handshake analysis | ✅ Completed |
+| Week 6 | Wireshark packet capture DNS, HTTP, and TCP 3-way handshake analysis | ✅ Completed |
 | Week 7 | — | ⏳ Pending |
 | Week 8 | — | ⏳ Pending |
 
