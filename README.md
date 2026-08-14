@@ -24,7 +24,7 @@ Cybersecurity Internship. Each week's work is organized in its own folder.
 | Week 5 | Nmap network scanning (basic, -sV, -O scans) on Kali localhost + open ports explanation | ✅ Completed |
 | Week 6 | Wireshark packet capture DNS, HTTP, and TCP 3-way handshake analysis | ✅ Completed |
 | Week 7 | Zynxis Employee Security Checklist (26 points — passwords, phishing, safe internet use, hacked account response, file handling, device lock screen) | ✅ Completed |
-| Week 8 | — | ⏳ Pending |
+| Week 8 | Final Capstone: Zynxis Security Report (top 5 threats, incident response plan, 3 tools) + 5-min presentation slides | ✅ Completed |
 
 ---
 
